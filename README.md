@@ -4,3 +4,6 @@ This is a get started mini-project I used to get famailiar with obtaining data f
 database : PostgreSQL
 
 ![image1](image/dummy_data.png)
+
+The web platform is from a project I worked on. Link to that project is provided below.
+[web based list](https://github.com/kene111/Web_Based_List)
