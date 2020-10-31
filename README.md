@@ -3,4 +3,4 @@ This is a get started mini-project I used to get famailiar with obtaining data f
 
 database : PostgreSQL
 
-![image1](images/dummy_data.png)
+![image1](image/dummy_data.png)
